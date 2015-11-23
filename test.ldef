@@ -1,0 +1,7 @@
+
+class Test
+	constructor(foo:string)
+	var x:number
+	var s:string
+	function foo():string
+end
